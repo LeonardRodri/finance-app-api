@@ -1,3 +1,1 @@
-const none = ''
-
-const nome2 = ''
+const joao = ''
